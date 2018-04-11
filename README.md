@@ -1,1 +1,1 @@
-# Data-Analyst-Nanodegree-Projects
+# Weather Trends Project (Udacity Data Analyst Nanodegree)
